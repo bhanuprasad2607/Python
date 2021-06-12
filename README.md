@@ -4,7 +4,7 @@
     <ol>
         <li>An informal Introduction to Python</li>
         <li>
-            <a href="https://github.com/bhanuprasad2607/Python/tree/main/basics">Using Python as a Calculator</a>
+            <a href="https://github.com/bhanuprasad2607/Python/tree/main/basics/basic-part-1">Using Python as a Calculator</a>
         </li>
     </ol>
     <li>Data Structures</li>
